@@ -1,0 +1,26 @@
+{
+  "name": "read-and-return-callback",
+  "version": "1.0.0",
+  "description": "this package will give you ability of read from command line and done it on your call back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidhmz/read-and-return-callback.git"
+  },
+  "keywords": [
+    "cin",
+    "and",
+    "cout",
+    "with",
+    "callback"
+  ],
+  "author": "hamidreza nasrollahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidhmz/read-and-return-callback/issues"
+  },
+  "homepage": "https://github.com/hamidhmz/read-and-return-callback#readme"
+}
